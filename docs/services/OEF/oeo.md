@@ -4,6 +4,7 @@ tags:
     - nfdi4energy/transparency
     - dlc/re-use
     - origin/oef
+    - open-source
 ---
 # Open Energy Ontology
 Developing a common ontology for the domain of energy system analysis.
