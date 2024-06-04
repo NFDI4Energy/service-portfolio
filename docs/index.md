@@ -51,7 +51,7 @@ In which stage is the software - exactly one of
 
 Is the software open-source? If yes, add the tag
 
-* openSource
+* open-source
 
 
 ## Listing of all Service Categories
