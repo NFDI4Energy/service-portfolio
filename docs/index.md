@@ -26,24 +26,32 @@
 ## DFG Definitions
 These categories are relevant for the DFG reporting. They can be accessed from the nfdi1000 Excel sheet [here](https://www.dfg.de/de/foerderung/foerderinitiativen/nfdi/formulare-merkblaetter) and the [Guide](https://www.dfg.de/en/research-funding/funding-initiative/nfdi/guide-to-filling-out-the-supplementary-data-sheet-for-consortia-of-the-national-research-data-infrastructure-nfdi-)
 ### Service Categories 
-Source: Drop Down Categories from the reporting excel sheet, Tab 5
+Source: Drop Down Categories from the reporting excel sheet, Tab 5, Definition from [de.NBI](https://zenodo.org/records/6597826)
 
-* Database
-* Library/API
-* Workflow
-* Tool/Application
-* Web Application
-* Data Curation
-* Storage
+| Category             | Definition                                                                                                                                                 |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Database             | software providing large amounts of structured data to the user. Usually the data can be uploaded, accessed, searched and/or downloaded via a web browser. |
+| Library / API        | collection of pre‐implemented functions for a specific task that can be accessed via a well‐ defined interfaces.                                           |
+| Workflow             | software that combines multiple tools / applications. They may be used locally or remotely via the internet.                                               |
+| Tools / applications | software that can be downloaded and executed locally on the users' hardware.                                                                               |
+| Web applications     | software that is installed on a server and can be used by users via a web page and the internet.                                                           |
+| Storage              | Not defined by de.NBI                                                                                                                                      |
+| Data Curation        | Not defined by de.NBI                                                                                                                                      |
+
+de.NBI additionally defines `Support / consulting` as "service with direct user contact for topics going beyond the support for the other services".
 
 ### Service Descriptions
 Source: Service Overview from the Excel, Tab 2-4
+In which stage is the software - exactly one of
 
-* Open-Source
-* Development Stage
-* Prototype Stage
-* Operation Stage
+* Development
+* Prototype
+* Operation
 * Terminated
+
+Is the software open-source? If yes, add the tag
+
+* openSource
 
 
 ## Listing of all Service Categories
