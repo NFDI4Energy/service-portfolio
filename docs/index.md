@@ -1,4 +1,4 @@
-# NFDI4Energy Service List
+# NFDI4Energy Service Collection
 
 ## NFDI4Energy 
 Research & Tranfser Cycle and Core services, as defined by the NFDI4Energy [proposal](https://zenodo.org/records/6772013).
@@ -71,8 +71,3 @@ In which stage is the software - exactly one of
 Is the software open-source? If yes, add the tag
 
 * open-source
-
-
-## Listing of all Service Categories
-
-<!-- material/tags -->
