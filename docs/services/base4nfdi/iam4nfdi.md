@@ -1,8 +1,9 @@
 ---
 title: IAM4NFDI
 tags:
-    - origin/base4nfdi
+    - source/base4nfdi
     - dlc/access
+    - nfdi4energy/?
 ---
 # IAM4NFDI
 Identity and Access Management

@@ -2,9 +2,10 @@
 title: Open Metadata Integration 
 tags:
     - dlc/re-use
-    - origin/oef
+    - source/oef
     - open-source
     - dfg/tool
+    - nfdi4energy/transparency
 ---
 # Open Metadata Integration 
 A library to process and translate open energy metadata

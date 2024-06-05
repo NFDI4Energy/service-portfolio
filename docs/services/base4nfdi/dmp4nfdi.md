@@ -1,7 +1,8 @@
 ---
 title: DMP4NFDI
 tags:
-    - origin/base4nfdi
+    - source/base4nfdi
+    - nfdi4energy/transparency
 ---
 # DMP4NFDI
 DMP4NFDI is a centralised Basic Service for managing data management plans (DMPs) and software management plans (SMPs) across the NFDI. 

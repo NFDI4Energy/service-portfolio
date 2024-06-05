@@ -1,12 +1,15 @@
 # NFDI4Energy Service List
 
 ## NFDI4Energy Service categories
+Categories as defined by the NFDI4Energy [proposal](https://zenodo.org/records/6772013).
 
-* Best Practices
-* Competence
-* Registry
-* Simulation
-* Transparency
+| Category       | Definition                                                                                                                                                           |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Competence     | help to navigate the interdisciplinary research field                                                                                                                |
+| Best Practices | get information on successful conduct of research in the field of energy systems and their research data management                                                  |
+| Registry       | find suitable data sets and software modules                                                                                                                         |
+| Simulation     | couple existing simulations and, therefore, increase the reuse of software artefacts                                                                                 |
+| Transparency   | involve more stakeholders in all research stages, especially integrating their data, and to convey the appropriate key research results to all relevant stakeholders |
 
 ## Data Life Cycle
 
@@ -17,11 +20,12 @@
 * access
 * re-use
 
-## Origin
-* origin/nfdi4energy
-* origin/oef
-* origin/base4nfdi
-* origin/other
+## Source
+
+* source/nfdi4energy
+* source/oef
+* source/base4nfdi
+* source/other
 
 ## DFG Definitions
 These categories are relevant for the DFG reporting. They can be accessed from the nfdi1000 Excel sheet [here](https://www.dfg.de/de/foerderung/foerderinitiativen/nfdi/formulare-merkblaetter) and the [Guide](https://www.dfg.de/en/research-funding/funding-initiative/nfdi/guide-to-filling-out-the-supplementary-data-sheet-for-consortia-of-the-national-research-data-infrastructure-nfdi-)
