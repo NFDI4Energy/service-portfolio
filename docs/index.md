@@ -1,8 +1,23 @@
 # NFDI4Energy Service List
 
-## NFDI4Energy Service categories
-Categories as defined by the NFDI4Energy [proposal](https://zenodo.org/records/6772013).
+## NFDI4Energy 
+Research & Tranfser Cycle and Core services, as defined by the NFDI4Energy [proposal](https://zenodo.org/records/6772013).
+### Research and Transfer Cycle
 
+
+![Image](assets/nfdi4energy_Abbildung_aussen.png){width="50%" }
+
+| Step | Tag        |
+|------|------------|
+| I    | Competence |
+| II   | Planning   |
+| III  | Production |
+| IV   | Storage    |
+| V    | Re-Use     |
+
+
+
+### Core Services
 | Category       | Definition                                                                                                                                                           |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Competence     | help to navigate the interdisciplinary research field                                                                                                                |
