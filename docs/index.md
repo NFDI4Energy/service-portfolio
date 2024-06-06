@@ -1,23 +1,18 @@
-# NFDI4Energy Service Collection
+# NFDI4Energy Service Definition
+This site collects services that are either used or developed within the [NFDI4Energy project](https://nfdi4energy.uol.de/). In the following, different ways to categorize these services are discussed. If you are interested in the service collection, check out [NFDI4Energy Service Categories](/categories).
 
-## NFDI4Energy 
-Research & Tranfser Cycle and Core services, as defined by the NFDI4Energy [proposal](https://zenodo.org/records/6772013).
-### Research and Transfer Cycle
+## Categorization of Services
 
+### Categorization based on the NFDI4Energy proposal
+In the NFDI4Energy [proposal](https://zenodo.org/records/6772013), a Research & Tranfser Cycle is defined. It introduces the following categories:
 
-![Image](assets/nfdi4energy_Abbildung_aussen.png){width="50%" }
+<figure markdown="span">
+  ![Image](assets/nfdi4energy_Abbildung_aussen.png){width="50%" }
+  <figcaption>Research & Transfer Cycle from the NFDI4Energy proposal.</figcaption>
+</figure>
 
-| Step | Tag        |
-|------|------------|
-| I    | Competence |
-| II   | Planning   |
-| III  | Production |
-| IV   | Storage    |
-| V    | Re-Use     |
+Based on this Research & Tranfser Cycle, **Core Services** are defined:
 
-
-
-### Core Services
 | Category       | Definition                                                                                                                                                           |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Competence     | help to navigate the interdisciplinary research field                                                                                                                |
@@ -26,7 +21,9 @@ Research & Tranfser Cycle and Core services, as defined by the NFDI4Energy [prop
 | Simulation     | couple existing simulations and, therefore, increase the reuse of software artefacts                                                                                 |
 | Transparency   | involve more stakeholders in all research stages, especially integrating their data, and to convey the appropriate key research results to all relevant stakeholders |
 
-## Data Life Cycle
+### Categorization based on the `Data Life Cycle`
+
+A more data-centric approach is used when defining a data life cycle. It consists of the six steps:
 
 * planning
 * production
@@ -35,17 +32,19 @@ Research & Tranfser Cycle and Core services, as defined by the NFDI4Energy [prop
 * access
 * re-use
 
-## Source
+### Categorization based on the Serice Source
+
+Services can also be categorized based on who created and maintains those services. Here we could use the sources:
 
 * source/nfdi4energy
 * source/oef
 * source/base4nfdi
 * source/other
 
-## DFG Definitions
+### Categorization based on the DFG Definitions
 These categories are relevant for the DFG reporting. They can be accessed from the nfdi1000 Excel sheet [here](https://www.dfg.de/de/foerderung/foerderinitiativen/nfdi/formulare-merkblaetter) and the [Guide](https://www.dfg.de/en/research-funding/funding-initiative/nfdi/guide-to-filling-out-the-supplementary-data-sheet-for-consortia-of-the-national-research-data-infrastructure-nfdi-)
-### Service Categories 
-Source: Drop Down Categories from the reporting excel sheet, Tab 5, Definition from [de.NBI](https://zenodo.org/records/6597826)
+
+First, Categories are defined based on the [de.NBI](https://zenodo.org/records/6597826) definitions (see Drop Down Categories from the reporting excel sheet, Tab 5)
 
 | Category             | Definition                                                                                                                                                 |
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -59,7 +58,7 @@ Source: Drop Down Categories from the reporting excel sheet, Tab 5, Definition f
 
 de.NBI additionally defines `Support / consulting` as "service with direct user contact for topics going beyond the support for the other services".
 
-### Service Descriptions
+### Categorization based on the DFG Service Descriptions
 Source: Service Overview from the Excel, Tab 2-4
 In which stage is the software - exactly one of
 
