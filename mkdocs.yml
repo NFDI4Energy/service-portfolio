@@ -17,6 +17,8 @@ theme:
     toggle:
       icon: material/brightness-7 
       name: Switch to dark mode
+  icon:
+    repo: fontawesome/brands/github
 markdown_extensions:
   - attr_list
   - md_in_html
@@ -26,3 +28,5 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/extra.css
+
+repo_url: https://github.com/FlorianK13/ServiceCollection
