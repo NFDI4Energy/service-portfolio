@@ -19,6 +19,8 @@ theme:
       name: Switch to dark mode
   icon:
     repo: fontawesome/brands/github
+  logo: assets/logo_nfdi4energy.png
+  favicon: assets/logo_nfdi4energy.png
 markdown_extensions:
   - attr_list
   - md_in_html
