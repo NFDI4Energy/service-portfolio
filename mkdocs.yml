@@ -7,11 +7,13 @@ theme:
   palette:
   # Palette toggle for dark mode
   - scheme: slate
+    primary: custom
     toggle:
       icon: material/brightness-4
       name: Switch to light mode
   # Palette toggle for light mode
   - scheme: default
+    primary: custom
     toggle:
       icon: material/brightness-7 
       name: Switch to dark mode
@@ -21,3 +23,6 @@ markdown_extensions:
   - toc:
       permalink: true
       toc_depth: 2
+
+extra_css:
+  - stylesheets/extra.css
