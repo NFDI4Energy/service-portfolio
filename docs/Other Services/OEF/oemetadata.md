@@ -3,7 +3,6 @@ title: Open Energy Family metadata
 tags:
     - dlc/re-use
     - open-source
-    - dfg/tool
 ---
 # Open Energy Family metadata 
 Contains metadata templates, examples and schemas

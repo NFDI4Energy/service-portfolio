@@ -5,7 +5,6 @@ tags:
     - dlc/access
     - dlc/re-use
     - open-source
-    - dfg/webapp
 ---
 # oeplatform
 Code of the Open Energy Platform (OEP) website. The OEP provides an interface to the Open Energy Family.
