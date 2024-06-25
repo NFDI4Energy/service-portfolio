@@ -1,7 +1,6 @@
 ---
 title: Open Energy Platform - Academy
 tags:
-    - nfdi4energy/bestPractices
     - source/oef
     - open-source
     - dlc/planning

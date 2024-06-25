@@ -1,7 +1,6 @@
 ---
 title: TIB PID Service
 tags:
-    - nfdi4energy/registry
     - dlc/access
     - dlc/re-use
 ---

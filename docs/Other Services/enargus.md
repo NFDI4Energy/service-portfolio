@@ -1,7 +1,6 @@
 ---
 title: EnArgus
 tags:
-    - nfdi4energy/competence
     - dlc/planning
     - source/other
 ---

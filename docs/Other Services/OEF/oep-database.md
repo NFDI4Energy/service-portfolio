@@ -1,7 +1,6 @@
 ---
 title: Open Energy Platform Database
 tags:
-    - nfdi4energy/registry
     - dlc/storage
     - source/oef
 ---

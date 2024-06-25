@@ -5,7 +5,6 @@ tags:
     - source/oef
     - open-source
     - dfg/WebApplication
-    - nfdi4energy/transparency
 ---
 # Open Energy Metadata Builder
 

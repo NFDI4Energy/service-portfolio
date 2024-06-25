@@ -1,7 +1,6 @@
 ---
 title: TIB AV-Portal
 tags:
-    - nfdi4energy/bestPractices
     - dlc/planning
 ---
 # TIB AV-Portal

@@ -2,7 +2,6 @@
 title: DMP4NFDI
 tags:
     - source/base4nfdi
-    - nfdi4energy/transparency
     - dlc/planning
 ---
 # DMP4NFDI

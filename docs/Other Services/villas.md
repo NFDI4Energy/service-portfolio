@@ -1,7 +1,6 @@
 ---
 title: VILLAS
 tags:
-    - nfdi4energy/simulation
     - dlc/production
 ---
 # mosaik

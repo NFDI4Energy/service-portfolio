@@ -5,7 +5,6 @@ tags:
     - source/oef
     - open-source
     - dfg/tool
-    - nfdi4energy/?
 ---
 # open-mastr
 A collaborative software to download the energy database Marktstammdatenregister (MaStR) 

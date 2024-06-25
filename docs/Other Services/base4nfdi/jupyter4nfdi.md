@@ -4,7 +4,6 @@ tags:
     - source/base4nfdi
     - dlc/production
     - dlc/analysis
-    - nfdi4energy/?
 ---
 # Jupyter4NFDI
 Jupyter4NFDI aims to address the fragmented deployment of Jupyter Notebooks across NFDI consortia by offering a centralised service. 

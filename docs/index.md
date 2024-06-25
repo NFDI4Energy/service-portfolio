@@ -1,27 +1,17 @@
 # NFDI4Energy Service Definition
-This site collects data services that are relevant in the energy domain. We distinguish between services that are developed within the NFDI4Energy project and services that come from other stakeholders. 
+This site collects data services that are relevant in the energy domain. We distinguish between services that are developed within the [NFDI4Energy project](NFDI4Energy Services/best_practices.md) and services that come from [other stakeholders](Other Services/enargus.md). 
 
 ## Categorization of Services
 
 ### Categorization based on the `Data Life Cycle`
 
-A more data-centric approach is used when defining a data life cycle. It consists of the six steps:
+Data Services are tools that help researchers in one or multiple steps of the Research Data Management Life Cycle. Hence we add the tags [planning](categories.md#dlcplanning), [production](categories.md#dlcproduction), [analysis](categories.md#dlcanalysis), [storage](categories.md#dlcstorage), [access](categories.md#dlcaccess), and [re-use](categories.md#dlcre-use).
 
-* planning
-* production
-* analysis
-* storage
-* access
-* re-use
+<figure markdown="span">
+  ![Image](assets/nfdi4energy_datalifecycle.png){width="50%" }
+  <figcaption>Research Data Management Life Cycle.</figcaption>
+</figure>
 
-### Categorization based on the Serice Source
-
-Services can also be categorized based on who created and maintains those services. Here we could use the sources:
-
-* source/nfdi4energy
-* source/oef
-* source/base4nfdi
-* source/other
 
 ### Categorization based on the DFG Definitions
 These categories are relevant for the DFG reporting. They can be accessed from the nfdi1000 Excel sheet [here](https://www.dfg.de/de/foerderung/foerderinitiativen/nfdi/formulare-merkblaetter) and the [Guide](https://www.dfg.de/en/research-funding/funding-initiative/nfdi/guide-to-filling-out-the-supplementary-data-sheet-for-consortia-of-the-national-research-data-infrastructure-nfdi-)

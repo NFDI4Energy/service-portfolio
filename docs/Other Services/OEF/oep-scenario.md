@@ -1,7 +1,6 @@
 ---
 title: Open Energy Platform - Scenario Bundles
 tags:
-    - nfdi4energy/transparency
     - source/oef
     - dlc/re-use
     - dlc/planning

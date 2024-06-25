@@ -2,7 +2,6 @@
 title: TS4NFDI
 tags:
     - source/base4nfdi
-    - nfdi4energy/transparency
     - dlc/re-use
 ---
 # TS4NFDI

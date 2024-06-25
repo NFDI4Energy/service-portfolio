@@ -7,7 +7,6 @@ tags:
     - source/oef
     - open-source
     - dfg/webapp
-    - nfdi4energy/registry
 ---
 # oeplatform
 Code of the Open Energy Platform (OEP) website. The OEP provides an interface to the Open Energy Family.

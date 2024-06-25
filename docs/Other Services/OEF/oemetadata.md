@@ -5,7 +5,6 @@ tags:
     - source/oef
     - open-source
     - dfg/tool
-    - nfdi4energy/transparency
 ---
 # Open Energy Family metadata 
 Contains metadata templates, examples and schemas

@@ -1,7 +1,6 @@
 ---
 title: mosaik
 tags:
-    - nfdi4energy/simulation
     - dlc/production
 ---
 # mosaik

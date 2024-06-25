@@ -1,7 +1,6 @@
 ---
 title: Open Energy Ontology
 tags:
-    - nfdi4energy/transparency
     - dlc/re-use
     - source/oef
     - open-source

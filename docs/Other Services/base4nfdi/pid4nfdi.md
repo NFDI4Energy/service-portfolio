@@ -2,7 +2,6 @@
 title: PID4NFDI
 tags:
     - source/base4nfdi
-    - nfdi4energy/transparency
     - dlc/access
     - dlc/re-use
 ---
