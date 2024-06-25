@@ -4,6 +4,9 @@ plugins:
       tags_file: categories.md 
 theme: 
   name: material
+  custom_dir: overrides
+  features:
+    - announce.dismiss
   palette:
   # Palette toggle for dark mode
   - scheme: slate
@@ -17,6 +20,9 @@ theme:
     toggle:
       icon: material/brightness-7 
       name: Switch to dark mode
+  features:
+    - toc.integrate
+    - navigation.tabs
   icon:
     repo: fontawesome/brands/github
   logo: assets/logo_nfdi4energy.png
@@ -26,7 +32,9 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
-      toc_depth: 2
+      toc_depth: 3
+
+
 
 extra_css:
   - stylesheets/extra.css
