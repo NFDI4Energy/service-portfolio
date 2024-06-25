@@ -1,7 +1,6 @@
 ---
 title: Jupyter4NFDI
 tags:
-    - source/base4nfdi
     - dlc/production
     - dlc/analysis
 ---

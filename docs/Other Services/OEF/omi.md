@@ -2,7 +2,6 @@
 title: Open Metadata Integration 
 tags:
     - dlc/re-use
-    - source/oef
     - open-source
     - dfg/tool
 ---

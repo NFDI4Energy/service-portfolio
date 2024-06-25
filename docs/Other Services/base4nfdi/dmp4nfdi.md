@@ -1,7 +1,6 @@
 ---
 title: DMP4NFDI
 tags:
-    - source/base4nfdi
     - dlc/planning
 ---
 # DMP4NFDI

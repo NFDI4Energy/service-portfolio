@@ -1,7 +1,6 @@
 ---
 title: Open Energy Platform - Academy
 tags:
-    - source/oef
     - open-source
     - dlc/planning
 ---

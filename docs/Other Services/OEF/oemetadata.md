@@ -2,7 +2,6 @@
 title: Open Energy Family metadata 
 tags:
     - dlc/re-use
-    - source/oef
     - open-source
     - dfg/tool
 ---

@@ -1,7 +1,6 @@
 ---
 title: KGI4NFDI
 tags:
-    - source/base4nfdi
     - dlc/planning
     - dlc/re-use
 ---

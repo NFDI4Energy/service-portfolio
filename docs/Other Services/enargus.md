@@ -2,7 +2,6 @@
 title: EnArgus
 tags:
     - dlc/planning
-    - source/other
 ---
 # EnArgus
 A platform that gives overview over 30,000 energy research projects.

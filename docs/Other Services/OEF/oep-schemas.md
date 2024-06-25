@@ -1,7 +1,6 @@
 ---
 title: Open Energy Platform - Schemas
 tags:
-    - source/oef
     - dlc/re-use
     - dlc/planning
 ---

@@ -2,7 +2,6 @@
 title: Open Energy Ontology
 tags:
     - dlc/re-use
-    - source/oef
     - open-source
 ---
 # Open Energy Ontology

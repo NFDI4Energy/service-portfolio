@@ -1,7 +1,6 @@
 ---
 title: PID4NFDI
 tags:
-    - source/base4nfdi
     - dlc/access
     - dlc/re-use
 ---

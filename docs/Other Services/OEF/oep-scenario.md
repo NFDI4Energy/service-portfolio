@@ -1,7 +1,6 @@
 ---
 title: Open Energy Platform - Scenario Bundles
 tags:
-    - source/oef
     - dlc/re-use
     - dlc/planning
 ---

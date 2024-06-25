@@ -2,7 +2,6 @@
 title: Open Energy Metadata Builder
 tags:
     - dlc/re-use
-    - source/oef
     - open-source
     - dfg/WebApplication
 ---
