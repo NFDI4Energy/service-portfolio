@@ -3,7 +3,6 @@ title: open-mastr
 tags:
     - dlc/access
     - open-source
-    - dfg/tool
 ---
 # open-mastr
 A collaborative software to download the energy database Marktstammdatenregister (MaStR) 
