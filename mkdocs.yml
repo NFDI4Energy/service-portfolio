@@ -36,7 +36,11 @@ markdown_extensions:
       permalink: true
       toc_depth: 3
 
-
+extra:
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:placeholder@mail.de
+copyright: Want your Service Removed or Added? Contact us!
 
 extra_css:
   - stylesheets/extra.css
