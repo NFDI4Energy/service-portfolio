@@ -1,5 +1,9 @@
 # Energy Research Data Management Service Portfolio
-This site collects data services that are relevant in the energy domain. We distinguish between services that are developed within the [NFDI4Energy Consortium](NFDI4Energy Services/best_practices.md) and services that come from [other stakeholders](Other Services/enargus.md). 
+This site collects data services that are relevant in the energy domain. To appear in this Collection, the following criteria are used:
+
+* The Service targets the german energy sector.
+* The Service targets one or multiple steps in the `Data Life Cycle`.
+* The Service already complies with the FAIR criteria or it is aiming to do so in the future.
 
 ## Categorization of Services
 
