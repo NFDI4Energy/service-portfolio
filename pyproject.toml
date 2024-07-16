@@ -1,0 +1,10 @@
+[project]
+name = "service-collection"
+version = "0.1.0"
+description = "Add your description here"
+dependencies = [
+    "mkdocs-material>=9.5.29",
+]
+readme = "README.md"
+requires-python = ">= 3.8"
+
