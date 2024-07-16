@@ -1,4 +1,4 @@
-# NFDI4Energy Service Definition
+# Energy Research Data Management Service Portfolio
 This site collects data services that are relevant in the energy domain. We distinguish between services that are developed within the [NFDI4Energy Consortium](NFDI4Energy Services/best_practices.md) and services that come from [other stakeholders](Other Services/enargus.md). 
 
 ## Categorization of Services
