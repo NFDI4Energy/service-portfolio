@@ -35,13 +35,14 @@ First, Categories are defined based on the [de.NBI](https://zenodo.org/records/6
 de.NBI additionally defines `Support / consulting` as "service with direct user contact for topics going beyond the support for the other services".
 
 ### Categorization based on the DFG Service Descriptions
-Source: Service Overview from the Excel, Tab 2-4
-In which stage is the software - exactly one of
+The DFG Reporting asks for the state of the software. We map these states to TLR levels, where we follow the [Criteria for Basic Services](https://base4nfdi.de/process/criteria-for-basic-services) from base4nfdi.
 
-* Development
-* Prototype
-* Operation
-* Terminated
+| DFG Service Description | Technology Readiness Level TLR |
+|-------------------------|--------------------------------|
+| Development             | 1-4                            |
+| Prototype               | 5-6                            |
+| Operation               | 7-9                            |
+| Terminated              |                                |
 
 Is the software open-source? If yes, add the tag
 
