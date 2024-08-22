@@ -1,4 +1,4 @@
-site_name: Energy Research Data Management Service Portfolio
+site_name: Service Portfolio for RDM in the Energy Domain 
 plugins:
   - tags:
       tags_file: categories.md 
@@ -27,6 +27,7 @@ theme:
     - navigation.tabs
   icon:
     repo: fontawesome/brands/github
+    annotation: material/arrow-right-circle 
   logo: assets/logo_nfdi4energy.png
   favicon: assets/logo_nfdi4energy.png
 
@@ -36,6 +37,13 @@ markdown_extensions:
   - toc:
       permalink: true
       toc_depth: 3
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+
 
 extra:
   social:

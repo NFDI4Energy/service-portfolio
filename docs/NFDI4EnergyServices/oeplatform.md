@@ -3,6 +3,7 @@ title: oeplatform
 tags:
     - dlc/planning
     - dlc/access
+    - dlc/storage
     - dlc/re-use
     - open-source
 ---
