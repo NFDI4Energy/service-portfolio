@@ -9,7 +9,7 @@ This site collects data services that are relevant in the energy domain. To appe
 
 ### Categorization based on the `Data Life Cycle`
 
-Data Services are tools that help researchers in one or multiple steps of the Research Data Management Life Cycle. Hence, services can get one or multiple of the tags [planning](categories.md#dlcplanning), [production](categories.md#dlcproduction), [analysis](categories.md#dlcanalysis), [storage](categories.md#dlcstorage), [access](categories.md#dlcaccess), and [re-use](categories.md#dlcre-use).
+Data Services are tools that help researchers in one or multiple steps of the Research Data Management Life Cycle. Hence, services can get one or multiple of the tags [planning](NFDI4EnergyServices/index.md#dlcplanning), [production](NFDI4EnergyServices/index.md#dlcproduction), [analysis](NFDI4EnergyServices/index.md#dlcanalysis), [storage](NFDI4EnergyServices/index.md#dlcstorage), [access](NFDI4EnergyServices/index.md#dlcaccess), and [re-use](NFDI4EnergyServices/index.md#dlcre-use).
 
 <figure markdown="span">
   ![Image](assets/nfdi4energy_datalifecycle.png){width="50%" }
@@ -47,6 +47,4 @@ The DFG Reporting asks for the state of the software. We map these states to TLR
 Is the software open-source? If yes, add the tag
 
 * open-source
-
-
 
