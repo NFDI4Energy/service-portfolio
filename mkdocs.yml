@@ -2,6 +2,7 @@ site_name: Energy Research Data Management Service Portfolio
 plugins:
   - tags:
       tags_file: categories.md 
+  - search
 theme: 
   name: material
   custom_dir: overrides
