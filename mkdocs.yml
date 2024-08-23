@@ -27,7 +27,7 @@ theme:
     - navigation.tabs
   icon:
     repo: fontawesome/brands/github
-    annotation: material/arrow-right-circle 
+    annotation: material/plus-circle 
   logo: assets/logo_nfdi4energy.png
   favicon: assets/logo_nfdi4energy.png
 
