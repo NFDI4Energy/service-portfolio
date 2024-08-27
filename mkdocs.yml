@@ -48,8 +48,8 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/solid/paper-plane
-      link: mailto:placeholder@mail.de
-copyright: Want your Service Removed or Added? Contact us!
+      link: mailto:services@nfdi4energy.org
+copyright: Want your service removed or added? Contact us!
 
 extra_css:
   - stylesheets/extra.css
