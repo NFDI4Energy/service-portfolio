@@ -34,9 +34,11 @@ theme:
 markdown_extensions:
   - attr_list
   - md_in_html
+  - admonition
+  - pymdownx.details
   - toc:
       permalink: true
-      toc_depth: 3
+      toc_depth: 2
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
