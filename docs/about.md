@@ -1,11 +1,27 @@
 # About
+
+## What is a service?
+Closely alligned with the Base4NFDI defintion, we define a service as follows:
+
+!!! note "Definition"
+
+    A service is a technical-oganisational solution that typically offers
+
+    * ☁️ storage and computing services
+    * 🔁 software, processes and workflows
+    * ☎️ support for service desk
+
+    ... with different levels of technicity.
+    
+
+## What are the Requirements for becoming an NFDI4Energy Service?
 This site collects data services that are relevant in the energy domain. To appear in this Collection, the following criteria are used:
 
 * The Service targets the german energy sector.
 * The Service targets one or multiple steps in the `Data Life Cycle`.
 * The Service already complies with the FAIR criteria or it is aiming to do so in the future.
 
-## Categorization of Services
+## How are services categorized?
 
 ### Categorization based on the `Data Life Cycle`
 
