@@ -21,6 +21,10 @@ This site collects data services that are relevant in the energy domain. To appe
 * The Service targets one or multiple steps in the `Data Life Cycle`.
 * The Service already complies with the FAIR criteria or it is aiming to do so in the future.
 
+??? note "You think a requirement is missing here?"
+
+    Discuss requirements with us, either via mail service[@]nfdi4energy.org or in the [github issue](https://github.com/NFDI4Energy/service-portfolio/issues/2).
+
 ## How are services categorized?
 
 ### Categorization based on the `Data Life Cycle`
