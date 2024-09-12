@@ -25,6 +25,6 @@ flowchart LR
   click id3 "categories/#dlcanalysis" _blank
   click id4 "categories/#dlcstorage" _blank
   click id5 "categories/#dlcaccess" _blank
-  click id6 "categories/#dlcreuse" _blank
+  click id6 "categories/#dlcre-use" _blank
 ```
 
