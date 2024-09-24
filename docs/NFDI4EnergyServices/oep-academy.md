@@ -8,4 +8,4 @@ tags:
 A collection of training courses, tutorials, and questions.
 
 ## Link
-[openenergyplatform.github.io/academy/][openenergyplatform.github.io/academy/]
+[https://openenergyplatform.github.io/academy/](https://openenergyplatform.github.io/academy/){:target="_blank"}

@@ -8,4 +8,4 @@ tags:
 
 
 ## Link
-[https://databus.openenergyplatform.org/](https://databus.openenergyplatform.org/)
+[https://databus.openenergyplatform.org/](https://databus.openenergyplatform.org/){:target="_blank"}

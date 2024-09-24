@@ -8,4 +8,4 @@ tags:
 Developing a common ontology for the domain of energy system analysis.
 
 ## Link
-[https://github.com/OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology)
+[https://github.com/OpenEnergyPlatform/ontology](https://github.com/OpenEnergyPlatform/ontology){:target="_blank"}
