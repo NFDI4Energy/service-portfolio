@@ -4,10 +4,11 @@ hide:
   - toc
 ---
 
-This is the Portfolio for Research Data Management Services (1) in the Energy Domain.
+This is the Portfolio for Research Data Management Services (1) in the Energy Domain. The goal of this portfolio is to show and navigate to relevant services - in the future it might look [like this](https://academiccloud.de/de/services/){:target="_blank"}.
 { .annotate }
 
 1.  Check out the information on Research Data Management from the [German Research Foundation - DFG](https://www.dfg.de/en/basics-topics/basics-and-principles-of-funding/research-data){:target="_blank"}. 
+
 
 
 **For which step of your research process do you need a service?**
