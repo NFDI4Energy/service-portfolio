@@ -1,8 +1,7 @@
 ---
 title: TIB PID Service
 tags:
-    - dlc/access
-    - dlc/re-use
+    - dev
 ---
 # TIB PID Service
 Persistent Identifiers (PIDs) und Metadatenservices des PID-Kompetenzzentrums

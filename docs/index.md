@@ -21,11 +21,13 @@ flowchart LR
   id4 --> id5("5. Access 💻")
   id5 --> id6("6. Reuse 🔁")
   id6 --> id1
+  id7("Services for developers")
   click id1 "categories/#dlcplanning" _blank
   click id2 "categories/#dlcproduction" _blank
   click id3 "categories/#dlcanalysis" _blank
   click id4 "categories/#dlcstorage" _blank
   click id5 "categories/#dlcaccess" _blank
   click id6 "categories/#dlcre-use" _blank
+  click id7 "categories/#dev" _blank
 ```
 
