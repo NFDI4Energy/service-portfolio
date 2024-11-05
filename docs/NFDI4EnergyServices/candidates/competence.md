@@ -1,7 +1,6 @@
 ---
 title: Competence
 tags:
-    - candidate
 ---
 # Competence Service
 A service to help interested parties to identify clusters of competence and enable connections between them.
