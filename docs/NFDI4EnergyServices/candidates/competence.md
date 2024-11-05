@@ -1,7 +1,7 @@
 ---
 title: Competence
 tags:
-    - dlc/planning
+    - candidate
 ---
 # Competence Service
 A service to help interested parties to identify clusters of competence and enable connections between them.
@@ -12,6 +12,8 @@ A service to help interested parties to identify clusters of competence and enab
 ## Connection to other NFDI4Energy Services
 * Identity & Access Managenment
 
+## What is missing to become an NFDI4Energy Service?
+* Needs to be hosted somewhere.
 
 ## Link
 Not hosted yet.
