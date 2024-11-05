@@ -30,7 +30,7 @@ This site collects data services that are relevant in the energy domain. To appe
 
 ### Categorization based on the `Data Life Cycle`
 
-Data Services are tools that help researchers in one or multiple steps of the Research Data Management Life Cycle. Hence, services can get one or multiple of the tags [planning](categories.md/#dlcplanning), [production](categories.md/#dlcproduction), [analysis](categories.md/#dlcanalysis), [storage](categories.md/#dlcstorage), [access](categories.md/#dlcaccess), and [re-use](categories.md/#dlcre-use).
+Data Services are tools that help researchers in one or multiple steps of the Research Data Management Life Cycle. Hence, services can get one or multiple of the tags [planning](categories.md/#dlcplanning), [production](categories.md/#dlcproduction), [analysis](categories.md/#dlcanalysis), [storage](categories.md/#dlcstorage), [access](categories.md/#dlcaccess), and [re-use](categories.md/#dlcre-use). Additionally, [Services for developers](categories.md/#dev) can help developers to build services.
 
 <figure markdown="span">
   ![Image](assets/nfdi4energy_datalifecycle.png){width="50%" }
