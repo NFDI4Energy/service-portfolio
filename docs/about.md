@@ -18,8 +18,9 @@ Closely alligned with the Base4NFDI defintion, we define a service as follows:
 This site collects data services that are relevant in the energy domain. To appear in this Collection, the following criteria are used:
 
 * The Service targets the german energy sector.
-* The Service targets one or multiple steps in the `Data Life Cycle`.
+* The Service targets one or multiple steps in the `Data Life Cycle` or helps to build services for the `Data Life Cycle`.
 * The Service already complies with the FAIR criteria or it is aiming to do so in the future.
+* The Service is running and available online.
 
 ??? note "You think a requirement is missing here?"
 
