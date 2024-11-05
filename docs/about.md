@@ -22,6 +22,8 @@ This site collects data services that are relevant in the energy domain. To appe
 * The Service already complies with the FAIR criteria or it is aiming to do so in the future.
 * The Service is running and available online.
 
+Services that aim to become part of the `NFDI4Energy Service Portfolio` but do not yet meet all requirements are collected as candidates.
+
 ??? note "You think a requirement is missing here?"
 
     Discuss requirements with us, either via mail service[@]nfdi4energy.org or in the [github issue](https://github.com/NFDI4Energy/service-portfolio/issues/2).
