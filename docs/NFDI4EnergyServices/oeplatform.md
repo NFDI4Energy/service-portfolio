@@ -6,6 +6,7 @@ tags:
     - dlc/storage
     - dlc/re-use
     - open-source
+    - de.NBI/web-application
 ---
 # oeplatform
 Code of the Open Energy Platform (OEP) website. The OEP provides an interface to the Open Energy Family.

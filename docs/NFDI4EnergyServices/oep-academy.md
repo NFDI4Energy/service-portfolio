@@ -3,6 +3,8 @@ title: Open Energy Platform - Academy
 tags:
     - open-source
     - dlc/planning
+    - de.NBI/web-application
+    
 ---
 # Open Energy Platform - Academy
 A collection of training courses, tutorials, and questions.
