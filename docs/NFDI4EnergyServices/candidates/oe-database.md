@@ -12,11 +12,11 @@ The Open Energy Database is an open community database for energy, climate and m
 
 ## Components
 * [Open Metadata Builder](https://openenergyplatform.github.io/oeplatform/install-and-documentation/oeplatform-code/features/metaBuilder/){:target="_blank"}
-* [Review Process](https://openenergyplatform.github.io/oeplatform/install-and-documentation/oeplatform-code/features/open-peer-review-process/)
-* OE Dialect
-* OEP Client
+* [Review Process](https://openenergyplatform.github.io/oeplatform/install-and-documentation/oeplatform-code/features/open-peer-review-process/){:target="_blank"}
+* [OE Dialect](https://github.com/OpenEnergyPlatform/oedialect){:target="_blank"}
+* [OEP Client](https://github.com/OpenEnergyPlatform/oep-client){:target="_blank"}
 * Data Table Wizard
-* Ontology Viewer
+* [Ontology Viewer](https://openenergyplatform.org/viewer/oeo/){:target="_blank"}
 
 
 ## Link
