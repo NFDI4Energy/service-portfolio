@@ -3,7 +3,8 @@ title: VILLAS
 tags:
 ---
 # VILLAS
-Hardware in the loop simulation tool.
+VILLAS is a framework for coupling test beds and real-time simulators between geographically distributed laboratories.
 
 ## Link
-[https://www.fein-aachen.org/projects/villas-framework/](https://www.fein-aachen.org/projects/villas-framework/){:target="_blank"}
+- [https://villas.fein-aachen.org/](https://villas.fein-aachen.org/){:target="_blank"}
+- [Documentation Page](https://villas.fein-aachen.org/docs/){:target="_blank"}
