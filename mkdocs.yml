@@ -30,6 +30,7 @@ theme:
     annotation: material/plus-circle 
   logo: assets/logo_nfdi4energy.png
   favicon: assets/logo_nfdi4energy.png
+  font: false 
 
 markdown_extensions:
   - attr_list
