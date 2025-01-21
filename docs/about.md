@@ -1,7 +1,7 @@
 # About
 
 ## What is a service?
-Closely alligned with the Base4NFDI defintion, we define a service as follows:
+Closely alligned with the [NFDI defintion](https://zenodo.org/records/10101412), we define a service as follows:
 
 !!! note "Definition"
 
@@ -12,21 +12,48 @@ Closely alligned with the Base4NFDI defintion, we define a service as follows:
     * ☎️ support for service desk
 
     ... with different levels of technicity.
-    
 
-## What are the Requirements for becoming an NFDI4Energy Service?
-This site collects data services that are relevant in the energy domain. To appear in this Collection, the following criteria are used:
+## What is an NFDI4Energy Service?
+An NFDI4Energy Service is a service based on the definition above. Moreover, it targets the two domains of "Research Data Management" and "Energy Domain".
 
-* The Service targets the german energy sector.
-* The Service targets one or multiple steps in the `Data Life Cycle` or helps to build services for the `Data Life Cycle`.
-* The Service already complies with the FAIR criteria or it is aiming to do so in the future.
-* The Service is running and available online.
+## How can my service become an NFDI4Energy Service?
+Right now we distinguish between two stages: `Candidates` and full `NFDI4Energy Services`. A `Candidate` needs to fulfill two requirements. First, it needs to be a Service as defined above. And second, it needs to target the area of Research Data Management in the Energy Domain. 
 
-Services that aim to become part of the `NFDI4Energy Service Portfolio` but do not yet meet all requirements are collected as candidates.
+The goal for every Candidate Service is to become a full `NFDI4Energy Service`. Therefore, a few more requirements have to be met.
+
+* A clear legal status for all relevant aspects are needed. First, a Terms of Service needs to clarify how the service can be used. Second, if the service produces or provides data of some kind, it needs to be clarified how this data can be used. And third, if the codebase of the service is open-source, it needs to have a license attached.
+* The service needs to be in operation - it needs to be more than a prototype. We think that a [Technology Readiness Level](https://en.wikipedia.org/wiki/Technology_readiness_level) of 7 or above is required.
+* The service needs to be documented. It is great if tutorials are provided within the `Best Practice` module of NFDI4Energy. If the underlying code of the service is open-source, this code also needs a documentation.
+* A support needs to be available for users. This means, that there is at least an email adress available for users seeking support.
+* The service needs to be interoperable with relevant other services and relevant standards. The specific meaning of this is to be decided case by case. The developers and stakeholders from NFDI4Energy will define all relevant standards and other services that are relevant. 
+
 
 ??? note "You think a requirement is missing here?"
 
     Discuss requirements with us, either via mail service[@]nfdi4energy.org or in the [github issue](https://github.com/NFDI4Energy/service-portfolio/issues/2).
+
+```mermaid
+%%{init: {"flowchart": {"htmlLabels": false}} {"theme":"dark" }}%%
+flowchart LR
+    subgraph Candidate
+        direction LR
+        can1["Can be used in Research Data Management in the Energy Domain"]
+        can2["Wants to become an NFDI4Energy Service"]
+    end
+    subgraph NFDI4Energy-Service
+        direction LR
+        ser1[Clear legal status regarding usage of the service, the produced results, and the underlying codebase] 
+        ser2["Service is in Operation: TRL 7-9"] 
+        ser3[Documentation Pages exist for the service]
+        ser4[Contact details for support exist] 
+        ser5[Interoperability with other Services and NFDI4Energy Standards]
+        click ser2 "https://en.wikipedia.org/wiki/Technology_readiness_level" "Wikipedia Article of TRLs"
+    end  
+    Candidate --> NFDI4Energy-Service
+```
+
+
+
 
 ## How are services categorized?
 
@@ -66,7 +93,3 @@ The DFG Reporting asks for the state of the software. We map these states to TLR
 | Prototype               | 5-6                            |
 | Operation               | 7-9                            |
 | Terminated              |                                |
-
-Is the software open-source? If yes, add the tag
-
-* open-source
