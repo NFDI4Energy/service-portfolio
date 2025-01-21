@@ -14,6 +14,7 @@ This is the Portfolio for Research Data Management Services (1) in the Energy Do
 **For which step of your research process do you need a service?**
 
 ``` mermaid
+%%{init: {"flowchart": {"htmlLabels": false}} {"theme":"dark" }}%%
 flowchart LR
   id1("1. Planning 📗") --> id2("2. Production 🔧")
   id2 --> id3("3. Analysis ⚙️")
