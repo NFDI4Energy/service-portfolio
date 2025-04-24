@@ -8,9 +8,10 @@ tags:
     - de.NBI/library-api
 ---
 # Open Energy Database
-The Open Energy Database is an open community database for energy, climate and modelling data. Everybody can contribute to the database by adding, editing, and reviewing information.
+We provide an open community database for energy, climate and modelling data.
 
-## Components
+Everybody can contribute to the database by adding, editing, and reviewing information. It consists of multiple **components:**
+
 * [Open Metadata Builder](https://openenergyplatform.github.io/oeplatform/install-and-documentation/oeplatform-code/features/metaBuilder/){:target="_blank"}
 * [Review Process](https://openenergyplatform.github.io/oeplatform/install-and-documentation/oeplatform-code/features/open-peer-review-process/){:target="_blank"}
 * [OE Dialect](https://github.com/OpenEnergyPlatform/oedialect){:target="_blank"}
@@ -18,6 +19,10 @@ The Open Energy Database is an open community database for energy, climate and m
 * Data Table Wizard
 * [Ontology Viewer](https://openenergyplatform.org/viewer/oeo/){:target="_blank"}
 
+## Institution
+* [Partners of the Open Energy Platform](https://openenergyplatform.org/about/)
+
+## Connection to other NFDI4Energy Services
 
 ## Link
 * [https://openenergyplatform.org/dataedit/schemas](https://openenergyplatform.org/dataedit/schemas){:target="_blank"}
