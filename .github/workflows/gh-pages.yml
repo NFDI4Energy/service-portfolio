@@ -2,9 +2,9 @@ name: gh-pages
 on:
   workflow_dispatch:
 
-      
 permissions:
   contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -12,10 +12,12 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
-          python-version: 3.x
-      - uses: actions/cache@v2
+          python-version: '3.x'
+      - uses: actions/cache@v4
         with:
-          key: ${{ github.ref }}
           path: .cache
+          key: ${{ runner.os }}-mkdocs-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-mkdocs-
       - run: pip install .
       - run: mkdocs gh-deploy --force
