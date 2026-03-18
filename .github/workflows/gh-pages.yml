@@ -11,10 +11,9 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
+      - run: mkdir _site && cp index.html 404.html _site/
       - uses: actions/upload-pages-artifact@v4
         with:
-          path: |
-            index.html
-            404.html
+          path: _site/
       - uses: actions/deploy-pages@v4
