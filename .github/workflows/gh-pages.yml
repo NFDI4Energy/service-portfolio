@@ -4,20 +4,17 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/upload-pages-artifact@v4
         with:
-          python-version: '3.x'
-      - uses: actions/cache@v4
-        with:
-          path: .cache
-          key: ${{ runner.os }}-mkdocs-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-mkdocs-
-      - run: pip install .
-      - run: mkdocs gh-deploy --force
+          path: |
+            index.html
+            404.html
+      - uses: actions/deploy-pages@v4
